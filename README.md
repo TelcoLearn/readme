@@ -1,14 +1,9 @@
-# 📡 TelcoLearn
+# <img src="Telco%20Learn%20Logo%20-%20SVG.svg" alt="TelcoLearn Logo" width="200" /> TelcoLearn
 
-<p align="center">
-  <img src="Telco%20Learn%20Logo%20-%20SVG.svg" alt="TelcoLearn Logo" width="200" />
-</p>
+
 
 <h3 align="center">Welcome to <em>TelcoLearn</em>! TelcoLearn is a Telecom and Cloud training organization supported by a network of over 3000+ subject matter experts (SMEs), assisting hundreds of clients with their evolving training, learning, and consulting requirements. We offer both online and offline instructor-led learning solutions to meet the needs of today and prepare for a brighter future.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goyalnikhil002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goyalnikhil002" alt="GitHub Trophies" /></a> </p>
 
 ## 🌍 About Us
 TelcoLearn delivers high-quality competency development programs focused on the latest technologies and the companies spearheading their advancement. Our commitment to promptly responding to training inquiries sets us apart. We prioritize addressing concerns related to Training Needs, Competency Development, and Capacity Building in Telecom (4G, 5G, 6G) and Cloud domains.
@@ -87,7 +82,7 @@ An end-to-end 5G Testbed - Designed to bridge the gap between Academia and Indus
 ## 📫 How to reach us
 📧 Email: goyalnikhil002@gmail.com
 
-## 🔗 Connect with me:
+## 🔗 Connect with us:
 <p align="left">
 <a href="https://twitter.com/bamb_mahak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
@@ -104,6 +99,9 @@ An end-to-end 5G Testbed - Designed to bridge the gap between Academia and Indus
 </p>
 
 ## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goyalnikhil002&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goyalnikhil002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goyalnikhil002" alt="GitHub Trophies" /></a> </p>
+
 
 Let's innovate together! 🚀
