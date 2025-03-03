@@ -80,12 +80,17 @@ An end-to-end 5G Testbed - Designed to bridge the gap between Academia and Indus
 - **Customer Support Automation:** AI-powered chatbots and ticketing systems to enhance customer experience.
 
 ## 📫 How to reach us
-📧 Email: goyalnikhil002@gmail.com
+📧 Email: telcolearn1@gmail.com or info@telcolearn.com
 
 ## 🔗 Connect with us:
 <p align="left">
-<a href="https://twitter.com/bamb_mahak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://twitter.com/telcolearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="telcolearn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/company/96649585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/96649585" height="30" width="40" /></a>
+<a href="https://fb.com/telcolearn5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="telcolearn5g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@telcolearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@telcolearn" height="30" width="40" /></a>
 </p>
+
+
 
 ## 🔧 Languages and Tools:
 <p align="left">
@@ -99,9 +104,9 @@ An end-to-end 5G Testbed - Designed to bridge the gap between Academia and Indus
 </p>
 
 ## 📊 GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goyalnikhil002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TelcoLearn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goyalnikhil002" alt="GitHub Trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TelcoLearn" alt="GitHub Trophies" /></a> </p>
 
 
 Let's innovate together! 🚀
