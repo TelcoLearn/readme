@@ -1,4 +1,4 @@
-# <img src="Telco%20Learn%20Logo%20-%20SVG.svg" alt="TelcoLearn Logo" width="200" /> TelcoLearn
+# <img src="https://github.com/TelcoLearn/readme/blob/main/Telco%20Learn%20Logo%20-%20%20SVG.svg" alt="TelcoLearn Logo" width="200" /> TelcoLearn
 
 
 
@@ -87,7 +87,10 @@ An end-to-end 5G Testbed - Designed to bridge the gap between Academia and Indus
 <a href="https://twitter.com/telcolearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="telcolearn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/company/96649585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/96649585" height="30" width="40" /></a>
 <a href="https://fb.com/telcolearn5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="telcolearn5g" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@telcolearn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@telcolearn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@telcolearn" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@telcolearn" height="30" width="40" />
+</a>
+
 </p>
 
 
