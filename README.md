@@ -1,4 +1,4 @@
-# <img src="https://github.com/TelcoLearn/readme/blob/main/Telco%20Learn%20Logo%20-%20%20SVG.svg" alt="TelcoLearn Logo" width="200" /> TelcoLearn
+# <img src="https://github.com/TelcoLearn/readme/blob/main/Telco%20Learn%20Logo%20-%20%20SVG.svg" alt="TelcoLearn Logo" width="100" /> TelcoLearn
 
 
 
